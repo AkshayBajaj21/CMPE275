@@ -1,4 +1,4 @@
-# CMPE275 Lab1 AOT
+# CMPE275 Lab-aop-tweet-stat requirements
 Enterprise Application Development
 
 CMPE 275 Section 1, Fall 2019
