@@ -1,4 +1,4 @@
-# CMPE275
+# CMPE275 Lab1 AOT
 Enterprise Application Development
 
 CMPE 275 Section 1, Fall 2019
